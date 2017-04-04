@@ -1,3 +1,2 @@
 # AndroidDev
-Android Application Development practice 
-Developer @Kevin Mustong
+Android Application Development practice. Developer @Kevin Mustong
